@@ -9,3 +9,5 @@ npm install
 ```bash
 node goog-closure-example.js
 ```
+
+(This is an old repo. See the newer one here: https://github.com/hchiam/learning-closure)
